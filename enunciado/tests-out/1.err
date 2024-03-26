@@ -1,0 +1,2 @@
+../tester/run-tests.sh: eval: line 23: syntax error near unexpected token `"vine al test 1.\n"'
+../tester/run-tests.sh: eval: line 23: `sys.stderr.write("vine al test 1.\n") ./wish tests/1.in'
